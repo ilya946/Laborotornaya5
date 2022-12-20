@@ -22,7 +22,7 @@ namespace Lab5
         static void Main(string[] args)
         {
 
-           Console.WriteLine( factorial(6))
+           Console.WriteLine( factorial(6));
         }
     }
 }
