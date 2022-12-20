@@ -17,7 +17,7 @@ namespace PI5
                     h2 *= i;
                 }
             }
-            return h2;
+            return h2
         }
         static void Main(string[] args)
         {
