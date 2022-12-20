@@ -1,0 +1,14 @@
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.exe
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.deps.json
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.runtimeconfig.json
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.runtimeconfig.dev.json
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.dll
+C:\ilya\PI5\PI5\bin\Debug\netcoreapp3.1\PI5.pdb
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.csproj.AssemblyReference.cache
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.AssemblyInfoInputs.cache
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.AssemblyInfo.cs
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.csproj.CoreCompileInputs.cache
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.dll
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.pdb
+C:\ilya\PI5\PI5\obj\Debug\netcoreapp3.1\PI5.genruntimeconfig.cache
